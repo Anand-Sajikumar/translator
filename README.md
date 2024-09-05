@@ -1,7 +1,3 @@
-To use this content as a README file for your GitHub project, you can structure it as follows:
-
----
-
 # Google Translator Microproject
 
 ## Project Overview
